@@ -1,3 +1,6 @@
 from .user_serializer import UserSerializer
 from .hashvaa_serializer import HashvaaSerializer
 from .survey_serializer import SurveySerializer
+from .coupon_serializer import CouponSerializer
+from .course_serializer import CourseSerializer, LessonSerializer
+from .app_version_serializer import AppVersionSerializer
